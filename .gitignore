@@ -1,0 +1,13 @@
+dist/
+.DS_Store
+.build/
+.swiftpm/
+*.app/
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.zip
+.env
+.env.*
+!.env.example
